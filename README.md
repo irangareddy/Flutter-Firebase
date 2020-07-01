@@ -1,16 +1,13 @@
-# Flutter_Firebase
+# **Flutter-Firebase**
 
-A new Flutter project.
+A Flutter Project with Firebase
 
-## Getting Started
+## What I did for ```Firebase Setup``` in My Project
 
-This project is a starting point for a Flutter application.
+- [ ] Created a Firebase Project in [Firebase Console](https://firebase.google.com)
 
-A few resources to get you started if this is your first Flutter project:
+- [ ] Created a Android Project in Firebase Project with ```Android package name``` available at ```ProjectFolder>android>src>build.gradle```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Created a iOS Project 
+
