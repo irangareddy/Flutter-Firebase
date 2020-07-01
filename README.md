@@ -12,6 +12,7 @@ A Flutter Project with Firebase
     ```
     defaultConfig {
     applicationId "com.example.appname" 
+    }
     ```
 
 - [x] Created a iOS App with `iOS Bundle id` available at `Runner.xcodeproj/project.pbxproj`
