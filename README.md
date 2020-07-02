@@ -2,7 +2,7 @@
 
 A Flutter Project with Firebase
 
-## What I did for `Firebase Setup` in My Project
+## **#1** What I did for `Firebase Setup` in My Project
 
 - [x] Created a Firebase Project in [Firebase Console](https://firebase.google.com)
 
@@ -28,8 +28,13 @@ A Flutter Project with Firebase
     - [firebase_auth](https://pub.dev/packages/firebase_auth)
     - [firebase_core](https://pub.dev/packages/firebase_core)
 
+## **#2** Applying `App Structure` to My Project
 
-    
+<p align="center">
+<img src="images/AppStructure.png" >
+</p>
+
+**Note:** Here we are creating simple coffee booking app. and here `BrewList` means list of orders. 
 
 
 
